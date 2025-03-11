@@ -54,7 +54,8 @@ O projeto possui uma interface amigável com um design intuitivo. O layout inclu
 - **Botão "Adicionar"** para inserir os nomes na lista;
 - **Lista dinâmica** para exibir os amigos cadastrados;
 - **Botão "Sortear Amigo"** para realizar o sorteio;
-- **Área de exibição do resultado** após o sorteio.
+- **Área de exibição do resultado** após o sorteio;
+- **Mensagem de alerta** após sortear todos os amigos.
 
 
 ## 📜 Licença
